@@ -1,4 +1,4 @@
-# Bit-by-Bit
+# Auto-Call
 
 A real-time face recognition attendance management system.
 
